@@ -14,7 +14,7 @@
 - ## 🌍 Connect with Me
 - LinkedIn: linkedin.com/in/shrey-shukla-434a24255
 - Email: shreyshukla101217@gmail.com
- LeetCode: https://leetcode.com/u/Shreyshukla29/
+-  LeetCode: https://leetcode.com/u/Shreyshukla29/
 <!---
 shreyshukla29/shreyshukla29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
