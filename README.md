@@ -6,7 +6,7 @@
 </p>
 
 ---
-
+![Profile Views](https://komarev.com/ghpvc/?username=shreyshukla29-dev&label=Profile%20Views&color=0e75b6&style=flat)
 ### 🌱 Currently Learning & Goals
 
 - **Current Learning**: Algorithms, system design, and full-stack development.
