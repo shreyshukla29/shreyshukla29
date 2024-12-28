@@ -1,4 +1,5 @@
-<h1 align="center">Hey, Code Enthusiast! I'm Shrey Shukla 🐦</h1>
+<h1 align="center">Hi, Fellow Coder! I'm Shrey Shukla 🚀</h1>
+
 <h3 align="center">Full Stack Developer & Competitive Programmer 🚀</h3>
 
 <p align="center">
