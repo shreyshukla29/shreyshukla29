@@ -1,6 +1,6 @@
 <h1 align="center">Hi, Fellow Coder! I'm Shrey Shukla 🚀</h1>
 
-<h3 align="center">Full Stack Developer & Competitive Programmer 🚀</h3>
+<h3 align="center">I'm a passionate developer with a love for technology and innovation. I enjoy working on challenging projects and continuously learning new skills.</h3>
 
 <p align="center">
   <img src="https://media1.tenor.com/m/jHg-q58KgiYAAAAC/scaler-create-impact.gif" width="100" alt="Morning Bird">
